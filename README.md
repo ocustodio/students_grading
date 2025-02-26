@@ -16,7 +16,7 @@ Esse dataset consiste somente de uma tabela com as informações dos alunos, com
 
 #### Performance Acadêmica
 - Entre todos os departamentos, o curso de matemática possui as maiores médias em 3 categorias (Total, Assignments e Participation) mas também possui as menores em outras 3 categorias (Final, Projects e Quizzes).
-- A distribuição dos alunos que possuem uma quantidade de horas de estudo por semana com relação à média da nota total, em sua grande parte, está bem equilibrada, com outliers em ambos os eixos. Mas é possível ver uma pequena tendência de queda das médias conforme o número de horas estudas aumenta.
+- A distribuição dos alunos que possuem uma quantidade de horas de estudo por semana com relação à média da nota total, em sua grande parte, está bem equilibrada, com outliers em ambos os eixos. Mas é possível ver uma pequena tendência de queda das médias conforme o número de horas estudadas aumenta.
 - Apesar de a diferença na média da nota total ser muito pequena, alunos que normalmente não participam de atividades extracurriculares, possuem uma nota total maior.
   
 #### Fatores Demográficos
