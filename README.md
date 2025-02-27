@@ -1,7 +1,7 @@
 # Analisando o Desempenho de Estudantes - Projeto de Aprendizado
 ## O objetivo deste projeto é analisar a performance dos alunos de uma escola fictícia, e poder fazer recomendações para a melhora do desempenho acadêmico dos alunos.
 
-Esse dataset é **totalmente fictício**, tirado do site [kaggle](https://www.kaggle.com/). Os dados foram gerados de forma aleatória, tornando a analise e a geração de insights menos consistente, também possuindo alguns outliers e dados faltosos, onde foram devidamente tratados. O intuito deste projeto é **somente para aprendizado**, e nenhum insight, e recomendação deve ser levado a sério.
+Esse dataset é **totalmente fictício**, tirado do site [kaggle](https://www.kaggle.com/). Os dados foram gerados de forma aleatória, tornando a análise e a geração de insights menos consistente, também possuindo alguns outliers e dados faltosos, onde foram devidamente tratados. O intuito deste projeto é **somente para aprendizado**, e nenhum insight, e recomendação deve ser levado a sério.
 
 ## Estrutura do Dataset
 Esse dataset consiste somente de uma tabela com as informações dos alunos, como nome, idade, notas, nível de estresse e horas dormidas.
@@ -16,7 +16,7 @@ Esse dataset consiste somente de uma tabela com as informações dos alunos, com
 
 #### Performance Acadêmica
 - Entre todos os departamentos, o curso de matemática possui as maiores médias em 3 categorias (Total, Assignments e Participation) mas também possui as menores em outras 3 categorias (Final, Projects e Quizzes).
-- A distribuição dos alunos que possuem uma quantidade de horas de estudo por semana com relação à média da nota total, em sua grande parte, está bem equilibrada, com outliers em ambos os eixos. Mas é possível ver uma pequena tendência de queda das médias conforme o número de horas estudadas aumenta.
+- A distribuição dos aluno, que possuem uma quantidade de horas de estudo por semana, com relação à média da nota total, em sua grande parte, está bem equilibrada, com outliers em ambos os eixos. Mas é possível ver uma pequena tendência de queda das médias conforme o número de horas estudadas aumenta.
 - Apesar de a diferença na média da nota total ser muito pequena, alunos que normalmente não participam de atividades extracurriculares, possuem uma nota total maior.
   
 #### Fatores Demográficos
